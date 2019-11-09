@@ -5,7 +5,7 @@ const libRepoUrl = 'https://github.com/CanopyTax/single-spa';
 module.exports = {
   title: 'single-spa',
   tagline: 'a javascript framework for front-end microservices',
-  url: 'https://canopytax.github.io/single-spa.js.org',
+  url: 'https://single-spa-test-netlify.netlify.com',
   baseUrl: '/',
   projectName: 'single-spa',
   favicon: 'img/logo-blue-favicon.ico',
